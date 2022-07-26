@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct fruitView: View {
+struct fruitLevels: View {
     var body: some View {
         Text("Hello, my name is chaitu!")
     }
@@ -15,6 +15,6 @@ struct fruitView: View {
 
 struct fruitView_Previews: PreviewProvider {
     static var previews: some View {
-        fruitView()
+        fruitLevels()
     }
 }
