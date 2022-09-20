@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C7A5EB628D885EB00B8C588 /* contentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C7A5EB528D885EA00B8C588 /* contentView.swift */; };
 		C03665392863DBC50096852E /* Guess_AApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C03665382863DBC50096852E /* Guess_AApp.swift */; };
 		C036653B2863DBC50096852E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C036653A2863DBC50096852E /* ContentView.swift */; };
 		C036653D2863DBC90096852E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C036653C2863DBC90096852E /* Assets.xcassets */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7C7A5EB528D885EA00B8C588 /* contentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = contentView.swift; sourceTree = "<group>"; };
 		C03665352863DBC50096852E /* Guess-A.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Guess-A.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C03665382863DBC50096852E /* Guess_AApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Guess_AApp.swift; sourceTree = "<group>"; };
 		C036653A2863DBC50096852E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -149,6 +151,7 @@
 			isa = PBXGroup;
 			children = (
 				C0CC9A42286BF3A300FF74C6 /* fruitLevels.swift */,
+				7C7A5EB528D885EA00B8C588 /* contentView.swift */,
 			);
 			path = Fruit;
 			sourceTree = "<group>";
@@ -274,6 +277,7 @@
 				C0CC9A47286BF3C200FF74C6 /* letterView.swift in Sources */,
 				C089E2EE286524480098AB23 /* numberLevels.swift in Sources */,
 				C0A98C96286D6187006BC2FA /* ToolbarView.swift in Sources */,
+				7C7A5EB628D885EB00B8C588 /* contentView.swift in Sources */,
 				C036653B2863DBC50096852E /* ContentView.swift in Sources */,
 				C0CC9A3F286BF31700FF74C6 /* pokemonLevels.swift in Sources */,
 				C0CC9A49286BF3D000FF74C6 /* dogBreedView.swift in Sources */,

@@ -28,7 +28,7 @@ struct ContentView: View {
                 
                 NavigationLink(destination: marvelView()) { Text("Guess a Marvel Character") }
                 NavigationLink(destination: carBrandView()) { Text("Guess a Car Brand") }
-                NavigationLink(destination: fruitView()) { Text("Guess a Fruit") }
+                NavigationLink(destination: fruitLevels()) { Text("Guess a Fruit") }
                 NavigationLink(destination: allBlacksPlayerView()) { Text("Guess a All Blacks Player") }
                 NavigationLink(destination: letterView()) { Text("Guess a Letter") }
                 NavigationLink(destination: dogBreedView()) { Text("Guess a Dog Breed") }
